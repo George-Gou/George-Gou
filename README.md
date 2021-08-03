@@ -15,8 +15,7 @@
   <i>`many a little makes a mickle`!</i>
 
 <p align="center">
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://goujianing.ml"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 
@@ -35,8 +34,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-<!---
-George-Gou/George-Gou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

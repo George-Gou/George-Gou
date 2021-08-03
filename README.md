@@ -1,9 +1,40 @@
-- 👋 Hi, I’m George-Gou from Chinese academy of science
-- 👀 I’m interested in Parallel computing and digital processing in geodesy
-- 🌱 I’m currently learning open source software on geodesy
-![image](https://user-images.githubusercontent.com/66907614/127989092-76381859-f19c-49f9-b3d7-cd8c8d9d799a.png)
+- ## 👋 Hi, I’m George-Gou
 
-`many a little makes a mickle`
+- 🎓 I come from Chinese academy of sciences，major in geodesy
+
+- 👀 I’m interested in machine learning and digital processing
+
+- 🌱 I’m currently working on open source software on geodesy and geophysics
+
+- ⛵ Encouraging people for open source collaborations.
+
+- for more information, please see [my personal website](https://goujianing.ml/) 
+
+<hr>
+<p align="center">
+  <i>`many a little makes a mickle`!</i>
+
+<p align="center">
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+</p>
+
+</p>
+
+
+
+<!---
+George-Gou/George-Gou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 
 <!---
 George-Gou/George-Gou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

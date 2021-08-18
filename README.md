@@ -29,7 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Gou&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Gou&hide=javascript,html,CSS,XSLT,Tex))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Gou&hide=javascript,html,CSS,XSLT,Tex&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gravity-Geodesy-China-Community&repo=Gravity-Geodesy-China-Community.github.io&theme=merko)](https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io)
 

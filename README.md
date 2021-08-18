@@ -15,7 +15,7 @@
   <i>`many a little makes a mickle`!</i>
 
 <p align="center">
-<a href= "https://goujianing.ml"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://goujianing.ml"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> Gravpher Personal site
 </p>
 
 
@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=George-Gou&repo=https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=George-Gou&repo=Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io&theme=material-palenight" />
 

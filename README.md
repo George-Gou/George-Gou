@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m George-Gou
+- ## 👋 Hi, I’m Gravpher, also called George-Gou
 
 - 🎓 I come from Chinese academy of sciences，major in geodesy
 

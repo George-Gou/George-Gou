@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=George-Gou)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gravity-Geodesy-China-Community&repo=Gravity-Geodesy-China-Community.github.io&theme=dracula)](https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gravity-Geodesy-China-Community&repo=Gravity-Geodesy-China-Community.github.io&theme=merko)](https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io)
 
 
   

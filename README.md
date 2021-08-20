@@ -2,7 +2,7 @@
 
 - 🎓 I come from Chinese academy of sciences，major in geodesy
 
-- 👀 I’m interested in machine learning and digital processing
+- 👀 I’m interested in machine learning and digital signal processing
 
 - 🌱 I’m currently working on open source software on geodesy and geophysics
 

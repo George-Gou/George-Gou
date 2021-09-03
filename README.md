@@ -1,10 +1,10 @@
 - ## 👋 Hi, I’m Gravpher, also called George-Gou
 
-- 🎓 I come from Chinese academy of sciences，major in geodesy
+- 🎓 I come from Chinese academy of sciences，major in geophysics and geodesy
 
 - 👀 I’m interested in machine learning and digital signal processing
 
-- 🌱 I’m currently working on open source software on geodesy and geophysics
+- 🌱 I’m currently working on open source software on geodesy and geophysics 
 
 - ⛵ Encouraging people for open source collaborations.
 

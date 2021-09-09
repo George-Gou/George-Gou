@@ -1,4 +1,4 @@
-- ## 👋 你好呀！ I’m Gravpher, also called George-Gou
+- ## 👋 你好呀！ I’m Gravpher. 
 
 - 🎓 I come from Chinese academy of sciences，major in geophysics and geodesy
 

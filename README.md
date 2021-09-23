@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently working on open source software on geodesy and geophysics 
 
-- ⛵ Encouraging people for open source collaborations.
-
 - for more information, please see [my personal website](https://goujianing.ml/) 
 
 <hr>

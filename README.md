@@ -4,8 +4,6 @@
 
 - 👀 I’m interested in machine learning and digital signal processing
 
-- 🌱 I’m currently working on open source software on geodesy and geophysics 
-
 - for more information, please see [my personal website](https://goujianing.ml/) 
 
 <hr>

@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in machine learning and digital signal processing
 
-- for more information, please see [my personal website](https://goujianing.ml/) 
+- & for more information, please see [my personal website](https://goujianing.ml/) 
 
 <hr>
 <p align="center">

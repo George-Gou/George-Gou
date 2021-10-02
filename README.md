@@ -25,7 +25,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Gou&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gravity-Geodesy-China-Community&repo=Gravity-Geodesy-China-Community.github.io&theme=merko)](https://github.com/Gravity-Geodesy-China-Community/Gravity-Geodesy-China-Community.github.io)
-
 
   

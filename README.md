@@ -1,6 +1,6 @@
 - ## 👋 你好呀！ I’m Gravpher. 
 
-- 🎓 I come from Chinese academy of sciences，major in geophysics and geodesy
+- 🎓 I come from Chinese academy of sciences，major in geodesy
 
 - 👀 I’m interested in machine learning and digital signal processing
 

@@ -1,8 +1,8 @@
 - ## 👋 你好呀！ I’m Gravpher. 
 
-- 🎓 I come from Chinese academy of sciences，major in geodesy
+- 🎓 I come from Chinese academy of sciences,major in geodesy&geophysics
 
-- 👀 I’m interested in machine learning and digital signal processing
+- 👀 I’m interested in machine learning and digital signal processing, especially deep learning application in geoscience. 
 
 - for more information, please visit [my personal website](https://goujianing.ml/) 
 

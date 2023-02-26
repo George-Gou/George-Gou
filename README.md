@@ -1,4 +1,4 @@
-- ## 👋 你好呀！ I’m Gravpher. 
+- ## 👋 你好呀！ I’m Codingbully. 
 
 - 🎓 I come from Chinese academy of sciences,major in geodesy&geophysics
 

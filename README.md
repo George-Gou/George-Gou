@@ -1,9 +1,7 @@
 - ## 👋 你好呀！ I’m Codingbully. 
 
-- 🎓 I come from Chinese academy of sciences,major in geodesy&geophysics
-
-- 👀 I’m interested in machine learning and digital signal processing, especially deep learning application in geoscience. 
-
+- 👀 I work on developing machine learning and digital signal processing algorithm in geodesy&geophysics.
+- 🎓 I am about to finish my master degree in Computer Science @ Georgia Tech.
 - for more information, please visit [my personal website](https://goujianing.ml/) 
 
 <hr>

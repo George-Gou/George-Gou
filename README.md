@@ -2,7 +2,7 @@
 
 - 👀 I work on developing machine learning and digital signal processing algorithm in geodesy&geophysics.
 - 🎓 I am about to finish my master degree in Computer Science @ Georgia Tech.
-- for more information, please visit [my personal website](https://goujianing.ml/) 
+- for more information, please visit [my personal website](https://jianinggou.top/) 
 
 <hr>
 <p align="center">
@@ -20,8 +20,6 @@
 </p>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Gou&show_icons=true&theme=dracula)
 
 
   
